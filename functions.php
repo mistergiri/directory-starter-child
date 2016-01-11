@@ -49,15 +49,6 @@ function ds_add_top_header() {
                         'container_class' => 'social_menu_class',
                         'menu_class' => 'ds-top-menu-ul'
                     ) ); ?>
-                    <div class="social_menu_class">
-                        <ul id="menu-social-connect" class="ds-top-menu-ul">
-                            <li id="menu-item-211" class="alignright floatright margin 10px 20px menu-item menu-item-type-custom menu-item-object-custom social-icon google-plus menu-item-211"><a target="_blank" href="http://plus.google.com/cofficocom"><i class="icon-2x icon-google-plus "></i><span class="fa-hidden">Google+</span></a></li>
-                            <li id="menu-item-210" class="alignright floatright margin 10px 20px menu-item menu-item-type-custom menu-item-object-custom social-icon pinterest menu-item-210"><a target="_blank" href="http://pinterest.com/cofficocom"><i class="icon-2x icon-pinterest "></i><span class="fa-hidden">Pinterest</span></a></li>
-                            <li id="menu-item-209" class="alignright floatright margin 10px 20px menu-item menu-item-type-custom menu-item-object-custom social-icon instagram menu-item-209"><a target="_blank" href="http://instagram.com/cofficocom"><i class="icon-2x icon-instagram "></i><span class="fa-hidden">Instagram</span></a></li>
-                            <li id="menu-item-208" class="alignright floatright margin 10px 20px menu-item menu-item-type-custom menu-item-object-custom social-icon twitter menu-item-208"><a target="_blank" href="http://twitter.com/cofficocom"><i class="icon-2x icon-twitter "></i><span class="fa-hidden">Twitter</span></a></li>
-                            <li id="menu-item-207" class="alignright floatright margin 5px auto menu-item menu-item-type-custom menu-item-object-custom social-icon facebook menu-item-207"><a target="_blank" href="http://facebook.com/cofficocom"><i class="icon-2x icon-facebook "></i><span class="fa-hidden">Facebook</span></a></li>
-                        </ul>
-                    </div>
                 </div>
             </div>
         </div>
